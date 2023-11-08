@@ -1,4 +1,5 @@
-# MyTelegram  [中文](README-zh-cn.md)|English
+# Chattarga 
+<!--
 [![API Layer](https://img.shields.io/badge/API_Layer-158-blueviolet)](https://corefork.telegram.org/methods)
 [![MTProto](https://img.shields.io/badge/MTProto_Protocol-2.0-green)](https://corefork.telegram.org/mtproto/)
 [![Support Chat](https://img.shields.io/badge/Chat_with_us-on_Telegram-0088cc)](https://t.me/+S-aNBoRvCRpPyXrR)
@@ -8,17 +9,20 @@ MyTelegram is [Telegram server side api](https://core.telegram.org/api) implemen
 WebA:[https://weba.mytelegram.top](https://weba.mytelegram.top/)  
 WebK:[https://webk.mytelegram.top](https://webk.mytelegram.top/)  
 
-**Verification Code:22222**
+**Verification Code:22222**  
+-->
 ## Features
-* Supported Api Layer:**`143`~`158`**  
+<!-- * Supported Api Layer:**`143`~`158`**  
 Open source version: **`158`**  
 Pro version:**`143`**~**`158`**  
 Pro version supports client communication with different layers,open source version only supports single layer  
 * [MTProto transports](https://corefork.telegram.org/mtproto/mtproto-transports):**`Abridged`**,**`Intermediate`**(also support [Transport error](https://corefork.telegram.org/mtproto/mtproto-transports#transport-errors) and [Transport obfuscation](https://corefork.telegram.org/mtproto/mtproto-transports#transport-obfuscation))  
+-->
 * Private chat
 * Group chat
 * Supergroup chat
 * Channel
+<!--
 * End-to-end-encryption chat(Pro version)
 * Voice/video call(Pro version)
 * Bot(Partial support,Pro version)
@@ -250,6 +254,8 @@ const pqInnerData = new Api.PQInnerDataDc({
 ```
 ## Support MyTelegram
 Love MyTelegram? Please give a star to this repository ⭐
+
+-->
 
 ## Feedback
 Contact author:[https://t.me/mytelegram666](https://t.me/mytelegram666)  
